@@ -1,6 +1,6 @@
-# NODE NOTIFICATION
+# EXAMPLE NODE NOTIFICATION
 
-Send notifications from server to client!
+Example of hot to send notifications from server to client!
 
 RUNNING
 
